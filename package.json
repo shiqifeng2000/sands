@@ -1,0 +1,14 @@
+{
+  "name": "sands",
+  "version": "1.0.0",
+  "description": "Sands is a package dedicate to simplify react VM configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.test.js"
+  },
+  "keywords": [
+    "sand"
+  ],
+  "author": "shiqifeng",
+  "license": "MIT"
+}
